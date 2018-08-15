@@ -1,7 +1,7 @@
 #!/bin/bash
 
 # Working path
-cd ~/dollydb
+cd /var/www/dollydb
 
 # Backup CSV
 cp /var/www/html/gente.txt .
